@@ -1,3 +1,20 @@
-.title {
-  color: #02ccba;
+.header-logo {
+  font-size: 20px;
+  background-color:gray;
 }
+
+span{
+  color:red;
+
+}
+
+.copy-container h1{
+  padding: 40px;
+  font-size: 80px;
+}
+
+.copy-container h2{
+  padding: 40px;
+  
+}
+
